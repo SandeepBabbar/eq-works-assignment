@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eq-works-assignment/static/css/main.c55b4f60.chunk.css",
+    "main.js": "/eq-works-assignment/static/js/main.609ed07d.chunk.js",
+    "main.js.map": "/eq-works-assignment/static/js/main.609ed07d.chunk.js.map",
+    "runtime-main.js": "/eq-works-assignment/static/js/runtime-main.7471e36f.js",
+    "runtime-main.js.map": "/eq-works-assignment/static/js/runtime-main.7471e36f.js.map",
+    "static/js/2.8c6bab26.chunk.js": "/eq-works-assignment/static/js/2.8c6bab26.chunk.js",
+    "static/js/2.8c6bab26.chunk.js.map": "/eq-works-assignment/static/js/2.8c6bab26.chunk.js.map",
+    "static/js/3.6996bfbd.chunk.js": "/eq-works-assignment/static/js/3.6996bfbd.chunk.js",
+    "static/js/3.6996bfbd.chunk.js.map": "/eq-works-assignment/static/js/3.6996bfbd.chunk.js.map",
+    "index.html": "/eq-works-assignment/index.html",
+    "static/css/main.c55b4f60.chunk.css.map": "/eq-works-assignment/static/css/main.c55b4f60.chunk.css.map",
+    "static/js/2.8c6bab26.chunk.js.LICENSE.txt": "/eq-works-assignment/static/js/2.8c6bab26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7471e36f.js",
+    "static/js/2.8c6bab26.chunk.js",
+    "static/css/main.c55b4f60.chunk.css",
+    "static/js/main.609ed07d.chunk.js"
+  ]
+}
