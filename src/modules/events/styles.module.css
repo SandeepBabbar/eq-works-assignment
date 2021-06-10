@@ -1,0 +1,42 @@
+.Header{
+    display: flex;
+}
+.Tab{
+    padding: 20px 40px;
+    font-size: 15px;
+    border: 1px solid #8884d8;
+    margin: 10px 10px 10px 0px;
+    border-radius: 10px;
+}
+.Tab:hover{
+    cursor: pointer;
+    background-color: hsla(243, 52%, 68%, 0.5);
+    color: white;
+}
+.Tab.Date{
+    background-color: #5f5abd;
+    color: white;
+    font-size: 32px;
+
+}
+.Tab.Date:hover{
+    cursor: default;
+}
+.Tab.Active{
+    background-color: hsla(243, 52%, 68%, 1);
+    color: white;
+}
+.Count{
+    font-size: 32px;
+}
+.Arrow{
+    background-color: blue;
+    border-radius: 50%;
+    padding: 8px;
+    display: inline-block;
+    transform: translateX(-20px);
+    cursor: pointer;
+}
+.Arrow:hover{
+    opacity: 0.5;
+}
